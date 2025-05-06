@@ -1,0 +1,2 @@
+CREATE DATABASE pharmacy_portal_db;
+USE pharmacy_portal_db;
